@@ -1,0 +1,42 @@
+.addcard
+{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.button-two {
+    border-radius: 4px;
+    background-color: #1995AD;
+    border: none;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+  }
+  .button-two:hover
+  {
+      background-color: #BCBABE;
+  }
+  
+  
+  .button-two span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button-two span:after {
+    content: '»';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button-two:hover span {
+    padding-right: 25px;
+  }
+  
+  .button-two:hover span:after {
+    opacity: 1;
+    right: 0;
+  }

@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "projectName": "json-server",
+      "projectidentifier": "typicode",
+      "description": "test description",
+      "sarte-date": "2022-02-05",
+      "end-date": "2022-02-17",
+      "start-time": "09:00am",
+      "end-time": "06:00pm"
+    },
+    {
+      "id": 1,
+      "projectName": "json-server",
+      "projectidentifier": "typicode",
+      "description": "test description",
+      "sarte-date": "2022-02-05",
+      "end-date": "2022-02-17",
+      "start-time": "09:00am",
+      "end-time": "06:00pm"
+    },
+    {
+      "id": 1,
+      "projectName": "json-server",
+      "projectidentifier": "typicode",
+      "description": "test description",
+      "sarte-date": "2022-02-05",
+      "end-date": "2022-02-17",
+      "start-time": "09:00am",
+      "end-time": "06:00pm"
+    },
+    {
+      "id": 1,
+      "projectName": "json-server",
+      "projectidentifier": "typicode",
+      "description": "test description",
+      "sarte-date": "2022-02-05",
+      "end-date": "2022-02-17",
+      "start-time": "09:00am",
+      "end-time": "06:00pm"
+    },
+    {
+      "id": 1,
+      "projectName": "json-server",
+      "projectidentifier": "typicode",
+      "description": "test description",
+      "sarte-date": "2022-02-05",
+      "end-date": "2022-02-17",
+      "start-time": "09:00am",
+      "end-time": "06:00pm"
+    }
+  ]
+}

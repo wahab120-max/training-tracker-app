@@ -1,0 +1,32 @@
+body
+{
+    font-family: 'Mulish', sans-serif;
+}
+.navbar
+{
+    background-color: #1995AD!important;
+    height: 80px;
+}
+.nav
+{
+    padding-left: 60px;
+}
+.search
+{
+    border-radius: 30px;
+}
+.nav
+{
+    text-decoration: none;
+    margin-top: 10px;
+}
+.logout
+{
+
+    border: none;
+    background-color: #BCBABE;
+    align-items: right!important;
+    align-content: right!important;
+    margin-right: 60px!important;
+    
+}

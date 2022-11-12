@@ -1,0 +1,63 @@
+/* .addcard
+{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+} */
+body{
+    background-color: #A1D6E2;
+}
+.table
+{
+    background-color: #F1F1F2;
+    margin-left: 0px;
+    padding: 0%;
+    border-radius: 10px;
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.tables
+{
+    background-color: #1995AD;
+    color: black;
+}
+.types
+{
+    background-color: #BCBABE;
+}
+.btns
+{
+    margin: 0%!important;
+
+}
+.btnsc
+{
+    margin-top: 100px;
+}
+.addnew
+{
+    background-color: cornflowerblue;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    /* margin-left: 200px; */
+}
+.audiance-back
+{
+    
+    margin-top: -40px;
+    margin-left: 260px;
+}
+.new-audiance
+{
+    background-color: cornflowerblue;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+}
+.audiance-view-card
+{
+    margin-bottom: 210px!important;
+}
+.all-cards
+{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}

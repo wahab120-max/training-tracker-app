@@ -1,0 +1,78 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userid": "syed@gmail.com",
+      "password": "77785522@"
+    },
+    {
+      "userid": "quazi",
+      "password": "hdhddhg",
+      "id": 2
+    },
+    {
+      "userid": "wahab@gmail.com",
+      "password": "1233554",
+      "id": 3
+    },
+    {
+      "userid": "quazi@gmail.com",
+      "password": "kkdkdkdk",
+      "id": 4
+    },
+    {
+      "userid": "wahab@gmail.com",
+      "password": "554557",
+      "id": 5
+    },
+    {
+      "userid": "zain@gmail.com",
+      "password": "7778888",
+      "id": 6
+    },
+    {
+      "userid": "tauseefahmad@gmail.com",
+      "password": "80075987",
+      "id": 7
+    },
+    {
+      "userid": "sufiyan@gmail.com",
+      "password": "shoew",
+      "id": 8
+    },
+    {
+      "userid": "syed@gmail",
+      "password": "7894566",
+      "id": 9
+    },
+    {
+      "userid": "hasnens@gmail.com",
+      "password": "458789855222",
+      "id": 10
+    },
+    {
+      "userid": "talha@gmail.com",
+      "password": "454545",
+      "id": 11
+    }
+  ],
+  "students": [
+    {
+      "audiance": "fresher",
+      "fresher": "",
+      "literal": "",
+      "intern": "",
+      "prerequisite": "backend",
+      "resources": "net conection",
+      "trainer": "wahab",
+      "trainingfor": "react",
+      "startdate": "2022-03-07",
+      "enddate": "2022-03-08",
+      "startetime": "07:00",
+      "endtime": "04:00",
+      "modeoftraining": "Remote",
+      "attendee": "40",
+      "id": 1
+    }
+  ]
+}
